@@ -1,0 +1,7 @@
+2020-05-12 11:26:26,682   ibmiotf.device.Client      INFO    Connected successfully: d:egdyr7:crop-out:1000111
+2020-05-12 12:08:43,679   ibmiotf.device.Client      INFO    Connected successfully: d:egdyr7:crop-out:1000111
+2020-05-12 13:32:11,491   ibmiotf.device.Client      INFO    Connected successfully: d:egdyr7:crop-out:1000111
+2020-05-13 20:28:59,615   ibmiotf.device.Client      INFO    Connected successfully: d:egdyr7:crop-out:1000111
+2020-05-13 20:29:31,354   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-13 20:29:31,327   ibmiotf.device.Client      INFO    Connected successfully: d:egdyr7:crop-out:1000111
+2020-05-13 20:29:33,594   ibmiotf.device.Client      INFO    Connected successfully: d:egdyr7:crop-out:1000111
