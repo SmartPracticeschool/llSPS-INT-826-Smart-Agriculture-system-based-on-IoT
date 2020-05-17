@@ -1,0 +1,48 @@
+[
+    {
+        "id": "d353544d.4d2b68",
+        "type": "ui_gauge",
+        "z": "98a6b7b9.882208",
+        "name": "",
+        "group": "58d79c07.c2e384",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "humidity",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "80",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 520,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "58d79c07.c2e384",
+        "type": "ui_group",
+        "z": "",
+        "name": "Irrigation Monitoring System",
+        "tab": "d15a3b6f.dfa4b8",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "d15a3b6f.dfa4b8",
+        "type": "ui_tab",
+        "z": "",
+        "name": "Smart Agriculture Based on IoT",
+        "icon": "smart home",
+        "disabled": false,
+        "hidden": false
+    }
+]
